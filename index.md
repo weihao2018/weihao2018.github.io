@@ -1,4 +1,4 @@
-## This is Zhou Weihao's home page [ch](https://github.com/weihao2018/weihao2018.github.io/edit/main/index.md)
+## This is Zhou Weihao's home page [ch](https://github.com/weihao2018/weihao2018.github.io/ch)
 
 You can use the [editor on GitHub](https://github.com/weihao2018/weihao2018.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
